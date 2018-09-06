@@ -1,0 +1,7 @@
+c:\users\sneha more\source\repos\HTTPServer\HTTPServer\obj\Debug\HTTPServer.csprojAssemblyReference.cache
+c:\users\sneha more\source\repos\HTTPServer\HTTPServer\obj\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+c:\users\sneha more\source\repos\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe.config
+c:\users\sneha more\source\repos\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe
+c:\users\sneha more\source\repos\HTTPServer\HTTPServer\bin\Debug\HTTPServer.pdb
+c:\users\sneha more\source\repos\HTTPServer\HTTPServer\obj\Debug\HTTPServer.exe
+c:\users\sneha more\source\repos\HTTPServer\HTTPServer\obj\Debug\HTTPServer.pdb
